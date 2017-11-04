@@ -1,2 +1,2 @@
 # WebSite
-Personal web Site for my deal wife
+Personal WebSite for my Deal wife
